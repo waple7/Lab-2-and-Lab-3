@@ -6,6 +6,6 @@ int main(){
     scanf("%o",&number_1);
     scanf("%x",&number_2);
     char c = number_1 | number_2;
-    printf("%d",c);
+    printf("10 syst: %d",c);
     return 0;
 }
