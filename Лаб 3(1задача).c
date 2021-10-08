@@ -3,6 +3,6 @@
 int main(){
     int number;
     scanf("%x",&number);
-    printf("%d",number);
+    printf("10 syst : %d\n",number);
     return 0;
 }
